@@ -24,8 +24,20 @@ class Diagnoser:
 		self.root = root
 		
 	def diagnose(self, symptoms):
-		pass
+		self.diagnose_helper(root, symptoms)
+
+	def diagnose_helper(self,node, symptoms):
+		if (node.positive_child == None) and node.negative_child == None:
+			return node.data
+
+		if node.data in symptoms:
+			node.data = node.positive_child
+			return self.diagnose_helper(node.positive_child, symptoms)
+		else:
+			node.data = node.negative_child
+			return self.diagnose_helper(node.negative_child, symptoms)
 		
+
 	def calculate_success_rate(self, records):
 		pass
 		
