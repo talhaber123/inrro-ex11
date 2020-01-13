@@ -1,0 +1,22 @@
+cough: True
+    fatigue: True
+        fever: True
+            None
+        fever: False
+            influenza
+    fatigue: False
+        fever: True
+            None
+        fever: False
+            cold
+cough: False
+    fatigue: True
+        fever: True
+            None
+        fever: False
+            mono
+    fatigue: False
+        fever: True
+            meningitis
+        fever: False
+            healthy

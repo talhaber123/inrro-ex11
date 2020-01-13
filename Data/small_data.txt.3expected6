@@ -1,0 +1,190 @@
+congestion: True
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        cold
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        cold
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+congestion: False
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        influenza
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        influenza
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        influenza
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        cold
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        influenza
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        mono
+            fever: False
+                headache: True
+                    irritability: True
+                        None
+                    irritability: False
+                        mono
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        mono
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        meningitis
+                    irritability: False
+                        influenza
+                headache: False
+                    irritability: True
+                        meningitis
+                    irritability: False
+                        strep
+            fever: False
+                headache: True
+                    irritability: True
+                        meningitis
+                    irritability: False
+                        mono
+                headache: False
+                    irritability: True
+                        None
+                    irritability: False
+                        healthy

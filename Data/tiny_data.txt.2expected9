@@ -1,0 +1,1534 @@
+congestion: True
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+congestion: False
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    influenza
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    cold
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    mono
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    meningitis
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    strep
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    None
+                            nausea: False
+                                rigidity: True
+                                    None
+                                rigidity: False
+                                    healthy

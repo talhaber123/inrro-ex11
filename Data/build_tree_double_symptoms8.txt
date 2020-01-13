@@ -1,0 +1,22 @@
+cough: True
+    headache: True
+        headache: True
+            cold
+        headache: False
+            None
+    headache: False
+        headache: True
+            None
+        headache: False
+            None
+cough: False
+    headache: True
+        headache: True
+            mono
+        headache: False
+            None
+    headache: False
+        headache: True
+            None
+        headache: False
+            strep

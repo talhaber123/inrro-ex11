@@ -1,0 +1,766 @@
+congestion: True
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+congestion: False
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                influenza
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                cold
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                mono
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                meningitis
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                strep
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                None
+                            nausea: False
+                                None
+                        muscle_ache: False
+                            nausea: True
+                                None
+                            nausea: False
+                                healthy

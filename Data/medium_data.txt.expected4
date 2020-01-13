@@ -1,0 +1,46 @@
+cough: True
+    fatigue: True
+        headache: True
+            sore_throat: True
+                None
+            sore_throat: False
+                influenza
+        headache: False
+            sore_throat: True
+                None
+            sore_throat: False
+                influenza
+    fatigue: False
+        headache: True
+            sore_throat: True
+                cold
+            sore_throat: False
+                cold
+        headache: False
+            sore_throat: True
+                cold
+            sore_throat: False
+                healthy
+cough: False
+    fatigue: True
+        headache: True
+            sore_throat: True
+                mono
+            sore_throat: False
+                mono
+        headache: False
+            sore_throat: True
+                mono
+            sore_throat: False
+                mono
+    fatigue: False
+        headache: True
+            sore_throat: True
+                cold
+            sore_throat: False
+                meningitis
+        headache: False
+            sore_throat: True
+                strep
+            sore_throat: False
+                healthy

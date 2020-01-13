@@ -1,0 +1,22 @@
+fatigue: True
+    fever: True
+        headache: True
+            influenza
+        headache: False
+            influenza
+    fever: False
+        headache: True
+            mono
+        headache: False
+            mono
+fatigue: False
+    fever: True
+        headache: True
+            meningitis
+        headache: False
+            strep
+    fever: False
+        headache: True
+            cold
+        headache: False
+            healthy

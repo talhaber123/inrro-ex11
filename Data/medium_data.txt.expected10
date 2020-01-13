@@ -1,0 +1,3070 @@
+congestion: True
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        cold
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+congestion: False
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        healthy
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        cold
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        healthy
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        mono
+                                    sore_throat: False
+                                        mono
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        mono
+                                    sore_throat: False
+                                        mono
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        mono
+                                    sore_throat: False
+                                        mono
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        mono
+                                    sore_throat: False
+                                        healthy
+        fatigue: False
+            fever: True
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        influenza
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                                rigidity: False
+                                    sore_throat: True
+                                        mono
+                                    sore_throat: False
+                                        meningitis
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        strep
+                                    sore_throat: False
+                                        strep
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                                rigidity: False
+                                    sore_throat: True
+                                        strep
+                                    sore_throat: False
+                                        strep
+            fever: False
+                headache: True
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        cold
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        meningitis
+                headache: False
+                    irritability: True
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        meningitis
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                    irritability: False
+                        muscle_ache: True
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        cold
+                                    sore_throat: False
+                                        None
+                        muscle_ache: False
+                            nausea: True
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        strep
+                                    sore_throat: False
+                                        None
+                            nausea: False
+                                rigidity: True
+                                    sore_throat: True
+                                        None
+                                    sore_throat: False
+                                        None
+                                rigidity: False
+                                    sore_throat: True
+                                        strep
+                                    sore_throat: False
+                                        healthy

@@ -1,0 +1,190 @@
+cough: True
+    fatigue: True
+        fever: True
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+        fever: False
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        healthy
+    fatigue: False
+        fever: True
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+        fever: False
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        cold
+                    sore_throat: False
+                        cold
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        cold
+                    sore_throat: False
+                        healthy
+cough: False
+    fatigue: True
+        fever: True
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        mono
+                    sore_throat: False
+                        mono
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        mono
+                    sore_throat: False
+                        mono
+        fever: False
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        mono
+                    sore_throat: False
+                        mono
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        mono
+                    sore_throat: False
+                        healthy
+    fatigue: False
+        fever: True
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        influenza
+                nausea: False
+                    sore_throat: True
+                        mono
+                    sore_throat: False
+                        meningitis
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        strep
+                    sore_throat: False
+                        strep
+                nausea: False
+                    sore_throat: True
+                        strep
+                    sore_throat: False
+                        meningitis
+        fever: False
+            headache: True
+                nausea: True
+                    sore_throat: True
+                        None
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        cold
+                    sore_throat: False
+                        meningitis
+            headache: False
+                nausea: True
+                    sore_throat: True
+                        strep
+                    sore_throat: False
+                        None
+                nausea: False
+                    sore_throat: True
+                        strep
+                    sore_throat: False
+                        healthy

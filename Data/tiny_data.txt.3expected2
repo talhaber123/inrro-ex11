@@ -1,0 +1,10 @@
+cough: True
+    fatigue: True
+        influenza
+    fatigue: False
+        cold
+cough: False
+    fatigue: True
+        mono
+    fatigue: False
+        strep

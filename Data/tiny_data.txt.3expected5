@@ -1,0 +1,94 @@
+congestion: True
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    None
+                headache: False
+                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    None
+                headache: False
+                    None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    None
+                headache: False
+                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    None
+                headache: False
+                    None
+congestion: False
+    cough: True
+        fatigue: True
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    influenza
+                headache: False
+                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    cold
+                headache: False
+                    None
+    cough: False
+        fatigue: True
+            fever: True
+                headache: True
+                    None
+                headache: False
+                    None
+            fever: False
+                headache: True
+                    mono
+                headache: False
+                    None
+        fatigue: False
+            fever: True
+                headache: True
+                    meningitis
+                headache: False
+                    strep
+            fever: False
+                headache: True
+                    None
+                headache: False
+                    healthy

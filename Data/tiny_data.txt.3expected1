@@ -1,0 +1,4 @@
+cough: True
+    cold
+cough: False
+    strep

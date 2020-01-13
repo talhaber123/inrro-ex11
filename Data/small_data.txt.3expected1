@@ -1,0 +1,4 @@
+fever: True
+    strep
+fever: False
+    cold

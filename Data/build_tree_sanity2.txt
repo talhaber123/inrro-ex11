@@ -1,0 +1,22 @@
+cough: True
+    irritability: True
+        headache: True
+            None
+        headache: False
+            None
+    irritability: False
+        headache: True
+            cold
+        headache: False
+            None
+cough: False
+    irritability: True
+        headache: True
+            meningitis
+        headache: False
+            None
+    irritability: False
+        headache: True
+            mono
+        headache: False
+            healthy

@@ -1,0 +1,22 @@
+cough: True
+    irritability: True
+        headache: True
+            None
+        headache: False
+            None
+    irritability: False
+        headache: True
+            None
+        headache: False
+            None
+cough: False
+    irritability: True
+        headache: True
+            None
+        headache: False
+            None
+    irritability: False
+        headache: True
+            None
+        headache: False
+            None

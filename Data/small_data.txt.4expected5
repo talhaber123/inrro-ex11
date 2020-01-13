@@ -1,0 +1,94 @@
+fatigue: True
+    fever: True
+        headache: True
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    None
+            irritability: False
+                sore_throat: True
+                    None
+                sore_throat: False
+                    influenza
+        headache: False
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    None
+            irritability: False
+                sore_throat: True
+                    mono
+                sore_throat: False
+                    influenza
+    fever: False
+        headache: True
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    None
+            irritability: False
+                sore_throat: True
+                    mono
+                sore_throat: False
+                    mono
+        headache: False
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    None
+            irritability: False
+                sore_throat: True
+                    mono
+                sore_throat: False
+                    None
+fatigue: False
+    fever: True
+        headache: True
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    meningitis
+            irritability: False
+                sore_throat: True
+                    None
+                sore_throat: False
+                    influenza
+        headache: False
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    meningitis
+            irritability: False
+                sore_throat: True
+                    strep
+                sore_throat: False
+                    strep
+    fever: False
+        headache: True
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    meningitis
+            irritability: False
+                sore_throat: True
+                    cold
+                sore_throat: False
+                    mono
+        headache: False
+            irritability: True
+                sore_throat: True
+                    None
+                sore_throat: False
+                    None
+            irritability: False
+                sore_throat: True
+                    healthy
+                sore_throat: False
+                    healthy

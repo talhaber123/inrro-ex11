@@ -1,0 +1,22 @@
+headache: True
+    rigidity: True
+        sore_throat: True
+            None
+        sore_throat: False
+            meningitis
+    rigidity: False
+        sore_throat: True
+            mono
+        sore_throat: False
+            influenza
+headache: False
+    rigidity: True
+        sore_throat: True
+            None
+        sore_throat: False
+            None
+    rigidity: False
+        sore_throat: True
+            strep
+        sore_throat: False
+            healthy

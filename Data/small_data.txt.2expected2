@@ -1,0 +1,10 @@
+fever: True
+    headache: True
+        influenza
+    headache: False
+        strep
+fever: False
+    headache: True
+        cold
+    headache: False
+        healthy

@@ -1,0 +1,22 @@
+cough: True
+    headache: True
+        headache: True
+            influenza
+        headache: False
+            None
+    headache: False
+        headache: True
+            None
+        headache: False
+            None
+cough: False
+    headache: True
+        headache: True
+            meningitis
+        headache: False
+            None
+    headache: False
+        headache: True
+            None
+        headache: False
+            healthy
