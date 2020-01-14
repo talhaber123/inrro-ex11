@@ -1,3 +1,4 @@
+import itertools
 class Node:
     def __init__(self, data, positive_child=None, negative_child=None):
         self.data = data
@@ -29,7 +30,7 @@ class Diagnoser:
         return self.diagnose_helper(self.root, symptoms)
 
     def diagnose_helper(self, node, symptoms):
-        if (node.positive_child == None) and node.negative_child == None:
+        if (node.positive_child == None) and (node.negative_child == None):
             return node.data
 
         if node.data in symptoms:
@@ -38,7 +39,6 @@ class Diagnoser:
             return self.diagnose_helper(node.negative_child, symptoms)
 
     def calculate_success_rate(self, records):
-        # Record (illness, symptoms)
         counter = 0
         for record in records:
             if self.diagnose(record.symptoms) == record.illness:
@@ -144,7 +144,34 @@ def build_tree(records, symptoms):
 
 
 def optimal_tree(records, symptoms, depth):
-    pass
+    a = -1
+    b = None
+    #עץ
+    if depth == 0:
+        b = build_tree(records, [])
+        list_subset_symptoms = []
+    else:
+        x = itertools.combinations(symptoms,depth)
+        list_subset_symptoms = list(x)
+    trees = []
+    for symptoms1 in list_subset_symptoms:
+        t = build_tree(records, symptoms1)
+        trees.append(t)
+        diagnoser1 = Diagnoser(t)
+        s = diagnoser1.calculate_success_rate(records)
+        if s > a:
+            #אחוז הצלחה
+            a = s
+            b = diagnoser1.root
+
+    return b
+
+    #     lst_success_rate += (t,s)
+    # lst_success_rate.sort(key=lambda item: t, reverse=True)
+    # return lst_success_rate[0][0]
+
+trees = []
+
 
 
 if __name__ == "__main__":
