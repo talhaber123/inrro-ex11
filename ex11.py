@@ -21,6 +21,7 @@ def parse_data(filepath):
 
 
 class Diagnoser:
+
     def __init__(self, root):
         self.root = root
 
@@ -70,20 +71,23 @@ class Diagnoser:
         self.paths_to_illness_helper(illness, self.root, [], all_paths)
         return all_paths
 
-    def paths_to_illness_helper(self, illness, current_node,
-                                path_till_here, list_of_paths):
-        if current_node.positive_child is None:  # that means both are None
-            if illness == current_node:
+    def paths_to_illness_helper(self, illness, node, path_till_here,
+                                    list_of_paths):
+        if node.positive_child is None or node.positive_child is None:
+            if illness == node.data:
                 list_of_paths.append(path_till_here)
-                return
+            return
 
-        self.paths_to_illness_helper(illness, current_node.positive_child,
-                                     path_till_here + [True],
-                                     list_of_paths)
+        self.paths_to_illness_helper(illness, node.positive_child,
+                                         path_till_here + [True] ,
+                                         list_of_paths)
+        # path_till_here.pop()
+        # path_till_here.append(False)
 
-        self.paths_to_illness_helper(illness, current_node.negative_child,
-                                     path_till_here + [False],
-                                     list_of_paths)
+        self.paths_to_illness_helper(illness, node.negative_child,
+                                         path_till_here + [False],
+                                         list_of_paths)
+        # path_till_here.pop()
 
     #         if ((node.positive_child == None) and node.negative_child == None):
     #     if illness == node.data:
